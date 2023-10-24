@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.smbinaoro.ZamboSuroyAdmin"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ce778344-2087-43bd-b396-600c44c8ce4c"
+      }
+    }, 
+    "scheme": "ZamboSuroyAdmin"
   }
 }
